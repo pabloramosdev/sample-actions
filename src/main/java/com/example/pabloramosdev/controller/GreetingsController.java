@@ -1,4 +1,4 @@
-package com.example.demo.controller;
+package com.example.pabloramosdev.controller;
 
 import org.springframework.http.MediaType;
 import org.springframework.http.ResponseEntity;

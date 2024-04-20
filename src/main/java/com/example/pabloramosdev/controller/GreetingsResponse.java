@@ -1,4 +1,4 @@
-package com.example.demo.controller;
+package com.example.pabloramosdev.controller;
 
 import lombok.AllArgsConstructor;
 import lombok.Builder;
